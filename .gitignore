@@ -1,0 +1,102 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+sporty_rest_api/HELP.md
+sporty_rest_api/target/
+sporty_rest_api/.mvn/wrapper/maven-wrapper.jar
+sporty_rest_api/!**/src/main/**/target/
+sporty_rest_api/!**/src/test/**/target/
+
+### STS ###
+sporty_rest_api/.apt_generated
+sporty_rest_api/.classpath
+sporty_rest_api/.factorypath
+sporty_rest_api/.project
+sporty_rest_api/.settings
+sporty_rest_api/.springBeans
+sporty_rest_api/.sts4-cache
+
+### IntelliJ IDEA ###
+sporty_rest_api/.idea
+sporty_rest_api/*.iws
+sporty_rest_api/*.iml
+sporty_rest_api/*.ipr
+
+### NetBeans ###
+sporty_rest_api/nbproject/private/
+sporty_rest_api/nbbuild/
+sporty_rest_api/dist/
+sporty_rest_api/nbdist/
+sporty_rest_api/.nb-gradle/
+sporty_rest_api/build/
+sporty_rest_api/!**/src/main/**/build/
+sporty_rest_api/!**/src/test/**/build/
+
+### VS Code ###
+sporty_rest_api/.vscode/
+
+sporty_events_consumer/HELP.md
+sporty_events_consumer/target/
+sporty_events_consumer/.mvn/wrapper/maven-wrapper.jar
+sporty_events_consumer/!**/src/main/**/target/
+sporty_events_consumer/!**/src/test/**/target/
+
+### STS ###
+sporty_events_consumer/.apt_generated
+sporty_events_consumer/.classpath
+sporty_events_consumer/.factorypath
+sporty_events_consumer/.project
+sporty_events_consumer/.settings
+sporty_events_consumer/.springBeans
+sporty_events_consumer/.sts4-cache
+
+### IntelliJ IDEA ###
+sporty_events_consumer/.idea
+sporty_events_consumer/*.iws
+sporty_events_consumer/*.iml
+sporty_events_consumer/*.ipr
+
+### NetBeans ###
+sporty_events_consumer/nbproject/private/
+sporty_events_consumer/nbbuild/
+sporty_events_consumer/dist/
+sporty_events_consumer/nbdist/
+sporty_events_consumer/.nb-gradle/
+sporty_events_consumer/build/
+sporty_events_consumer/!**/src/main/**/build/
+sporty_events_consumer/!**/src/test/**/build/
+
+### VS Code ###
+sporty_events_consumer/.vscode/
+
