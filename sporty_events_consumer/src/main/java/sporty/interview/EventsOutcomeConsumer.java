@@ -35,8 +35,8 @@ public class EventsOutcomeConsumer {
         	bet.setEventWinnerId(eventOutcome.getEventWinnerId());
         	return bet;
         }).forEach(bet  -> {
-        	betRepository.save(bet);
         	rocketMqProducer.sendBet(bet);
+        	betRepository.save(bet);
         });
         
         System.out.println("event outcome message consumed successfully: " + eventOutcome+ "processed");

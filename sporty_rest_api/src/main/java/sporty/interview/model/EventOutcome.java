@@ -38,7 +38,7 @@ public class EventOutcome {
 	
 	@JsonIgnore
 	public boolean isWellFormed() {
-		return (this.eventId !=  null ) &&  (this.eventWinnerId != null )
+		return (this.eventId !=  null )
 			&& (this.eventName != null) && (!eventName.isEmpty());
 		  
 	}
